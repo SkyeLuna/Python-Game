@@ -23,7 +23,7 @@ def main():
     while running:
         for event in pg.event.get():
             if event.type == pg.KEYDOWN:
-                ' Put Actual Playing Code Below '
+                
                 if pg.key.get_pressed()[pg.K_ESCAPE]:  # Simple Player Exit
                     running = False
             if event.type == pg.QUIT:
