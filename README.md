@@ -1,2 +1,5 @@
 # Text-Semi-GUI-Game-
-Name will come later
+Name will come later on when I have completed more!
+
+## Made In
+Python / PyGame
